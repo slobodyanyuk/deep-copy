@@ -9,7 +9,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/globusdigital/deep-copy/deepcopy"
+	"github.com/slobodyanyuk/deep-copy/deepcopy"
 	"golang.org/x/tools/go/packages"
 )
 
